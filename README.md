@@ -1,2 +1,2 @@
-# ML_Practice
+# ML_course
 My practices of Machine Learning course
